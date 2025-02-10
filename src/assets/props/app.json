@@ -50,7 +50,7 @@
         }
     },
     "api": {
-        "baseUrl": "https://apitest.vmedo.com",
+        "baseUrl": "https://api.vmedo.com",
         "user": {
             "auth": {
                 "url": "/api/auth/RefreshToken",
